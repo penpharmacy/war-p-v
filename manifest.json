@@ -17,10 +17,6 @@
       "src": "icons/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
-    },
-    {
-      <img src="images/pill-2mg.png" alt="2mg pill" />
-<img src="images/pill-3mg-half.png" alt="3mg half pill" />
     }
   ]
 }
